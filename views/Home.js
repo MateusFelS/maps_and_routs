@@ -75,7 +75,7 @@ export default function Home(props) {
           onPress={(data, details = null) => {
             setAddress(data.description);
             setDestination({
-              latitude: details.geometry.location.lat,
+              latitude: details.geometry.location.lat, 
               longitude: details.geometry.location.lng,
               latitudeDelta: 0.000922,
               longitudeDelta: 0.000421,
