@@ -4,7 +4,7 @@
  
 ## 📱 Mobile App
 
-### Este aplicativo foi desenvolvido utilizando React Native. Nele, o usuário pode calcular rotas para seu destino, inclouindo a distância e calculando o preço estimado.
+### Este aplicativo foi desenvolvido utilizando React Native. Nele, o usuário pode calcular rotas para seu destino, incluindo a distância e calculando o preço estimado.
 
 ### **Technologias usadas**
 ### • JavaScript: Programming language
