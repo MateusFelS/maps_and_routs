@@ -12,7 +12,7 @@ O Maps and Routs é um aplicativo mobile que utiliza geolocalização para calcu
 
 Oferecer uma solução prática para calcular rotas e obter informações úteis de viagens, com foco em simplicidade e precisão para os usuários.
 
-## Funcionalidades
+## Funcionalidades Testadas
 
 - **Cálculo de Rotas**: Insira um ponto de partida e destino para visualizar a rota no mapa em tempo real.
 - **Distância Percorrida**: Mostra a distância entre os pontos calculados.
